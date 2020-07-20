@@ -1,15 +1,2 @@
 *.swp
 *secret*
-Debug
-Documentation
-Generated_Code
-ProjectInfo.xml
-Project_Settings
-Static_Code
-.cproject
-.cwGeneratedFileSetLog
-.hello-processor-expert-mkl05z4.g_x
-.hello-processor-expert-mkl05z4.g_c
-.project
-.settings
-
