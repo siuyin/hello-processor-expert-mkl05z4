@@ -2,4 +2,10 @@
 
 GCC tool chain.
 
+1. clone the repository
+1. open the project with Kinetis Design Studio
+1. Processor Expert will complain that project is not
+ yet open. Fix by clicking on "reload project" button.
+
+
 
